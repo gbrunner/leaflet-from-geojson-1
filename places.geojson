@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Restaurants": 270
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.44975280761719,
+          38.67639739080184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Restaurants": "brown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.34538269042969,
+          38.72569753630937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Restaurants": 180
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.29319763183592,
+          38.67746949445934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Restaurants": "Shepard Woods",
+        "Review": "5 Star"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.42572021484374,
+          38.61526094178415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Restaurants": "Williams Ave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.31929016113281,
+          38.62223527691723
+        ]
+      }
+    }
+  ]
+}
