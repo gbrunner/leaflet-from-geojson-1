@@ -161,7 +161,7 @@ var myLines = {
       }
     }
   ]
-}
+};
 
 var myStyle = {
     "color": "#ff7800",
